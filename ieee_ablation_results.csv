@@ -1,0 +1,7 @@
+feature_group,num_features_removed,test_r2_all,test_r2_without,r2_drop
+rental_market,7,0.89519,0.8726,0.02258
+spatial_identifiers,3,0.89519,0.87728,0.0179
+housing_stock,7,0.89519,0.87996,0.01523
+income_features,7,0.89519,0.89952,-0.00433
+temporal_lags,6,0.89519,0.9177,-0.02251
+labor_market,3,0.89519,0.92393,-0.02874
