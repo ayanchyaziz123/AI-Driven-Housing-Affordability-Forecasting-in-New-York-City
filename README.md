@@ -293,8 +293,8 @@ If you use this dataset, code, or paper in your research, please cite:
                An NTA-Level Panel Analysis Using Ensemble Machine Learning},
   author    = {Azizur, Rahman},
   journal   = {IEEE-Format Research Paper},
-  year      = {2024},
-  note      = {Department of Urban Informatics, New York University}
+  year      = {2026},
+  note      = {Indiana Wesleyan University}
 }
 ```
 
