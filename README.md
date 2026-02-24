@@ -2,7 +2,7 @@
 ### An NTA-Level Panel Analysis Using Ensemble Machine Learning
 
 > **Published as:** IEEE-format research paper — *AI-Driven Housing Affordability Forecasting in New York City: An NTA-Level Panel Analysis Using Ensemble Machine Learning*
-> **Author:** Rahman Azizur · Department of Urban Informatics, New York University
+> **Author:** Azizur Rahman · Department of Computer Science and AI, Indiana Wesleyan University
 
 ---
 
@@ -313,7 +313,7 @@ If you use this dataset, code, or paper in your research, please cite:
 
 ## Contact
 
-**Rahman Azizur**
-Department of Urban Informatics, New York University
-New York, NY 10012
-r.azizur@nyu.edu
+**Azizur Rahman**
+Department of Computer Science and Artificial Intelligence, Indiana Wesleyan University
+Marion, IN 46953
+azizurusa22@gmail.com
